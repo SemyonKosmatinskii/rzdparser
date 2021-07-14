@@ -14,9 +14,3 @@ public class Main {
 
     }
 }
-/**
- * ты там что-то ебался с датами. Вот простой вариант, подойдет
- * DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
- * date.format(formatter)
- * Ну ты разберешься, что к чему. Запусти
- */
